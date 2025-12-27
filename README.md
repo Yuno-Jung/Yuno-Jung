@@ -14,7 +14,7 @@
   </picture>
 </p>
 
-## GitHub 3D
+## 🧊 3D Contribution Graph
   <p align="center">
     <img src="https://raw.githubusercontent.com/Yuno-Jung/Yuno-Jung/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </p>
