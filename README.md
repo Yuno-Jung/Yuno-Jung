@@ -51,7 +51,7 @@
 
   <hr>
 
-  ### 📫 Contact Me
+  ## 📫 Contact Me
   <a href="https://dbsgh9831.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white">
   </a>
