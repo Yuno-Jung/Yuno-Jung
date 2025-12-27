@@ -1,6 +1,12 @@
-# YoonHo's Hithub
+<div align="center">
+  <img src="https://github.com/Yuno-Jung/Yuno-Jung/raw/main/Black%20Simple%20Record%20Vlog%20Youtube%20Intro.gif" width="100%" />
+</div>
+
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuno9831)](https://solved.ac/yuno9831/)
+
+---
 
 ## 🛠 Tech Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
