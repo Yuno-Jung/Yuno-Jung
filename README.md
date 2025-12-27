@@ -5,6 +5,8 @@
 
   <hr>
   
+  ## 🏆Baekjoon Tier
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuno9831)](https://solved.ac/yuno9831/)
 
   <hr>
@@ -44,9 +46,12 @@
   <hr>
 
   ## 📊 GitHub Stats
+   <p align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuno-Jung&theme=react-dark&color=ffb6c1&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%" />
+  </p>
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yuno-Jung&show_icons=true&theme=transparent" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuno-Jung&layout=compact&theme=transparent" height="150">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuno-Jung&theme=rose_pine" width="100%" />
   </p>
 
   <hr>
