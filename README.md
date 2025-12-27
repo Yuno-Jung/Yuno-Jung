@@ -12,22 +12,20 @@
   <hr>
 
   ## 🛠 Tech Stacks
-  <hr>
-
-  ## 🛠 Tech Stacks
 
   <table align="center" bgcolor="#FFF0F5" style="border-radius: 20px; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 20px; border: none;">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,oracle,aws,docker,vercel,argocd,prometheus,grafana,figma,git,github&perline=9" />
-        <br><br>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-      </td>
-    </tr>
-  </table>
-
-  <hr>
+  <tr>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,aws,docker,vercel,figma,git,github&perline=7" />
+      <br><br>
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+    </td>
+  </tr>
+</table>
 
   <hr>
 
