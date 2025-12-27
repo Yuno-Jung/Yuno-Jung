@@ -4,15 +4,20 @@
   <br/>
 
   <hr>
-## GitHub Trophy
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuno-Jung&theme=rose_pine&no-bg=true&margin-w=15" width="100%" />
-</p
 
-## GitHub Trophy
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuno-Jung/Yuno-Jung/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  ### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuno-Jung/Yuno-Jung/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuno-Jung/Yuno-Jung/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yuno-Jung/Yuno-Jung/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
+## GitHub 3D
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Yuno-Jung/Yuno-Jung/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </p>
   
   ## 🏆Baekjoon Tier
   
