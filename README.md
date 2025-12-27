@@ -8,7 +8,6 @@
   ## 🏆Baekjoon Tier
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuno9831)](https://solved.ac/yuno9831/)
-
   <hr>
 
   ## 🛠 Tech Stacks
