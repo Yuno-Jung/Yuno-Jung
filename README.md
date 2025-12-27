@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me
+(본인을 한 문장으로 정의하는 매력적인 문구)
 
-<!--
-**Yuno-Jung/Yuno-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stacks
+| Classification | Icons |
+| :--- | :--- |
+| **Frontend** | ![React](...) ![Next.js](...) |
+| **Backend** | ![Spring](...) ![Node.js](...) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Yuno-Jung&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuno-Jung&layout=compact&theme=transparent)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 📫 Contact Me
+[LinkedIn](링크) | [Blog](링크) | [Email](메일주소)
